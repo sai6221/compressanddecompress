@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">compress3</string>
+    <string name="load_from_gallery">Load From Gallery</string>
+    <string name="load_from_camera">Load From Camera</string>
+    <string name="compress">Compress</string>
+    <string name="normal_image">Normal Image</string>
+    <string name="compress_image">Compress Image</string>
+
+</resources>
